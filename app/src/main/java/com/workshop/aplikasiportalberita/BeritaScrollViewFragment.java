@@ -60,7 +60,7 @@ public class BeritaScrollViewFragment extends ScrollTabHolderFragment implements
     // Deklarasi Widget
     private RecyclerView recyclerView;
     ImageView titleImage;
-
+//hackto
     private int mPosition;
     private CardView cardView;
     private LinearLayout linear;
